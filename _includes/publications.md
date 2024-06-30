@@ -1,53 +1,40 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <a href="https://scholar.google.com/citations?user=WuO1sSkAAAAJ&hl=en" target="_blank" style="font-size:15px;">[Google Scholar]</a></h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+
 
 <li>
 <div class="pub-row">
+
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
+    <img src="assets/img/paper_prcv_FSD.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/" target="_blank">Benchmarking Multi-Scene Fire and Smoke Detection</a></div>
+    <div class="author"><strong>Xiaoyi Han</strong>, Nan Pu, Zunlei Feng, Yijun Bei, Qifei Zhang, Lechao Cheng^*, Liang Xue^*</div>
+    <div class="periodical"><em>Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2024.</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
+      <a href="https://arxiv.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/XiaoyiHan6/MS-FSDB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/XiaoyiHan6/MS-FSDB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://dblp.uni-trier.de/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!--
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+       -->
     </div>
   </div>
+  
 </div>
 </li>
-
+  
 <br>
 
-{% endfor %}
+
+
 
 </ol>
 </div>
-

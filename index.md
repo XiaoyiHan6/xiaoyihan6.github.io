@@ -11,7 +11,7 @@ My research lies at the intersection of **Computer Vision** and **Natural Langua
 ## News
 - **[Jun. 2024]** My paper about Fire and Smoke Detection is accepted to PRCV 2024.🔥
 
-## Projects
+## Publications
 
 {% include_relative _includes/projects.md %}
 

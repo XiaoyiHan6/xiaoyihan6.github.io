@@ -8,18 +8,16 @@ My Name is Xiaoyi Han.
 
 My research interest includes Computer Vision, Deep Learning, Object Detection, Image Segmentation, Scene Graph Generation, Natural Language Processing, and Multi-Modal Learning, etc.
 
+## News
 
-## Research Interests
+- **[Jun. 2024]** My paper about Fire and Smoke Detection is accepted to PRCV 2024.🔥
+
+## Publications
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Projects
 
 {% include_relative _includes/publications.md %}
 

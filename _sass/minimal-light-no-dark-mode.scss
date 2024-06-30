@@ -80,6 +80,9 @@
 
 .github span{
   background-color:#000}
+  
+.zhihu span{
+  background-color:#002D72}
 
 email {
     font-size: 14px;
@@ -112,8 +115,10 @@ email {
 
 .icon-button .icon-linkedin{
   color:#0077B5}
+.icon-button .icon-zhihu{
+  color:#002D72}
 
-.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
+.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white},.icon-button:hover .icon-zhihu,
 
 autocolor{
   color:#595959;
@@ -515,4 +520,31 @@ footer {
   margin-left: 0px;
   display:none;
   font-family: monospace;
+}
+
+#headcolor {
+	width:100%;
+  	height:1.5em;
+	margin:0;
+	padding:0;
+	background:#036;
+	/* background: rgb(0,36,62); */
+	text-align:left;
+	color:#fff;
+	position:fixed;
+	z-index:999;
+}
+
+#colorheadspacer {
+	font:bold 14px "Times New Roman", Times, serif;
+	margin-left:5px;
+	margin-right:2em;
+	display:block;
+	float:right;
+	width:6.5em;
+	height:1px;
+	letter-spacing:1px;
+	color:#036;
+	border:1px solid #036;
+
 }

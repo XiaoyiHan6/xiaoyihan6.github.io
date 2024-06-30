@@ -15,6 +15,7 @@ My research interest includes **Computer Vision**, Deep Learning, Object Detecti
 
 ## Honors and Awards 
 - **[Jul. 2018]**  Outstanding Graduates of Beijing Ordinary Colleges and Universities.✨
+- **[Nov. 2016]**  National Scholarship for the 2015-2016 Academic Year.✨
 
 <!-- {% include_relative _includes/publications.md %} -->
 

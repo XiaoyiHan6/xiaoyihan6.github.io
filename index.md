@@ -13,6 +13,8 @@ My research lies at the intersection of **Computer Vision** and **Natural Langua
 
 ## Projects
 
+{% include_relative _includes/projects.md %}
+
 ## Honors and Awards 
 - **[Jul. 2018]**  Outstanding Graduates of Beijing Ordinary Colleges and Universities.✨
 - **[Nov. 2016]**  Chinese National Scholarship for the 2015-2016 Academic Year.✨

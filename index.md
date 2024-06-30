@@ -11,7 +11,7 @@ My research lies at the intersection of **Computer Vision** and **Natural Langua
 ## News
 - **[Jun. 2024]** My paper about Fire and Smoke Detection is accepted to PRCV 2024.🔥
 
-## Publications
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/projects.md %}
 
@@ -19,6 +19,6 @@ My research lies at the intersection of **Computer Vision** and **Natural Langua
 - **[Jul. 2018]**  Outstanding Graduates of Beijing Ordinary Colleges and Universities.✨
 - **[Nov. 2016]**  Chinese National Scholarship for the 2015-2016 Academic Year.✨
 
-<!-- {% include_relative _includes/publications.md %} -->
+
 
 <!-- {% include_relative _includes/services.md %} -->

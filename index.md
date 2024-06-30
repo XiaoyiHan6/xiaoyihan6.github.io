@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+My Name is Xiaoyi Han.
+
+My research interest includes Computer Vision, Deep Learning, Object Detection, Image Segmentation, Scene Graph Generation, Natural Language Processing, and Multi-Modal Learning, etc.
+
 
 ## Research Interests
 

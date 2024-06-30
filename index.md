@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Short Bio
 
 My Name is Xiaoyi Han.
 

@@ -1,5 +1,6 @@
 # Basic Information 
 title: Xiaoyi Han
+titlecn: 韩潇逸
 position: Ph.D. Student
 affiliation: None
 email: hanxiaoyicoder (at) gmail (dot) com
@@ -8,8 +9,8 @@ email: hanxiaoyicoder (at) gmail (dot) com
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: Welcome to Xiaoyi's academic personal homepage.
+canonical: https://xiaoyihan6.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -44,7 +45,7 @@ google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:

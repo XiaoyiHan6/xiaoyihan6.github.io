@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{site.title}}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -74,6 +74,11 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+        
+         {% if site.titlecn %}
+        <position style="font-size:1.5rem; color:#036; font-family:serif;"><b>{{ site.titlecn }}</b></position>
+        <br>
+        {% endif %}
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>

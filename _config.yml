@@ -39,9 +39,14 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: G-BWSQR8Z057
+# Footnotes
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Clustrmaps ID
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id: -s43ATbDGEvLvim5I_pxJYjiU7AVK1qCwhqn975emRM
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll

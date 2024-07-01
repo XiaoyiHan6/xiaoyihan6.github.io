@@ -50,7 +50,6 @@ google_analytics: G-BWSQR8Z057
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
-  - Gemfile.lock
   - README.md
   - README_zh_Hans.md
   - README_zh_Hant.md

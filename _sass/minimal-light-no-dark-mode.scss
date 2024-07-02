@@ -14,6 +14,11 @@
   line-height:2.5rem;
   margin-right:1rem}
 
+@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+
+titlecn{color:#002D72;}
+@media (prefers-color-scheme: dark) {titlecn{color:#3EB7F0;}}
+
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
@@ -382,7 +387,20 @@ footer {
   position:fixed;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
+  color:#002D72;
   text-align:center;
+}
+
+@media (prefers-color-scheme: dark) {
+  footer {
+  width:232px;
+  float:left;
+  position:fixed;
+  bottom:30px;
+  -webkit-font-smoothing:subpixel-antialiased;
+  color:#3EB7F0;
+  text-align:center;
+  }	
 }
 
 @media print, screen and (max-width: 960px) {

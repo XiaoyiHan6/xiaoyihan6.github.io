@@ -19,7 +19,7 @@
     <div class="periodical"><em>ACM Multimedia Asia Conference <strong>((MM Asia)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/XiaoyiHan6/FSD_method" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/XiaoyiHan6/FSDmethod" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://xiaoyihan6.github.io/FSD/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://www.acmmmasia.org/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!--

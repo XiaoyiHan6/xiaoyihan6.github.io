@@ -10,7 +10,7 @@ My research lies at the intersection of **Computer Vision** and **Natural Langua
 
 ## News
 - **[Oct. 2024]** My paper about Fire and Smoke Detection Method is accepted to ACM MM asia 2024.🔥
-- **[Jun. 2024]** My paper about Fire and Smoke Detection Benchmark is accepted to PRCV 2024.🔥
+- **[Jun. 2024]** My paper about Fire and Smoke Detection Benchmark is accepted to PRCV 2025.🔥
 
 {% include_relative _includes/publications.md %}
 

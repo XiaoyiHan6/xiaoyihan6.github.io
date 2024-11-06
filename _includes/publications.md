@@ -47,7 +47,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/" target="_blank">Benchmarking Multi-Scene Fire and Smoke Detection</a></div>
     <div class="author"><strong>Xiaoyi Han</strong>, Nan Pu, Zunlei Feng, Yijun Bei, Qifei Zhang, Lechao Cheng, Liang Xue</div>
-    <div class="periodical"><em>Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2024.</em></div>
+    <div class="periodical"><em>Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.16631" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
       <a href="https://github.com/XiaoyiHan6/MS-FSDB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>

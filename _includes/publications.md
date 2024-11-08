@@ -45,7 +45,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/" target="_blank">Benchmarking Multi-Scene Fire and Smoke Detection</a></div>
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-97-8795-1_14" target="_blank">Benchmarking Multi-Scene Fire and Smoke Detection</a></div>
     <div class="author"><strong>Xiaoyi Han</strong>, Nan Pu, Zunlei Feng, Yijun Bei, Qifei Zhang, Lechao Cheng, Liang Xue</div>
     <div class="periodical"><em>Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2025.</em></div>
     <div class="links">

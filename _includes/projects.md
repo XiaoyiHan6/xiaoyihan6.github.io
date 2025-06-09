@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/XiaoyiHan6/Simple-CV-Pytorch-master" target="_blank">A Simple Computer Vision Project written with Pytorch</a> <strong><i style="color:#e74d3c">(22 Github Stars)</i></strong></div>
+    <div class="title"><a href="https://github.com/XiaoyiHan6/Simple-CV-Pytorch-master" target="_blank">A Simple Computer Vision Project written with Pytorch</a> <strong><i style="color:#e74d3c">(31 Github Stars)</i></strong></div>
     <div>This project includes Image Classification and Object Detection tasks, and semantic segmentation task will be added later. </div>
   </div>
   
